@@ -12,7 +12,9 @@
   "dependencies": {
     "@babel/preset-env": "^7.12.13",
     "babel-cli": "^6.26.0",
-    "graphql-yoga": "^1.16.7"
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "graphql-yoga": "^1.16.7",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "babel-watch": "^7.3.1"
